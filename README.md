@@ -8,15 +8,6 @@ For more information on the [Maturity Model for Microsoft 365](https://learn.mic
 
 The agent is currently built using Microsoft Copilot Studio. To make use you will need to have access to a Microsoft 365 environment and Microsoft Teams.
 
-### Contents
-
-#### Introduction
-#### Pre-requisites
-#### Installation
-#### Publishing-the-agent-to-microsoft-365-copilot
-#### Try-it-out
-
-
 ### Introduction
 
 This document explains how to install the Maturity Model for Microsoft 365 Agent solution.
@@ -24,9 +15,9 @@ This document explains how to install the Maturity Model for Microsoft 365 Agent
 ### Pre-requisites
 You will need:
 
-A copy of the Maturity Model Agent ZIP file
-Access to a Power Platform environment
-A Microsoft 365 Copilot licence (Teams or Microsoft 365 Copilot Bizchat)
+- A copy of the Maturity Model Agent ZIP file
+- Access to a Power Platform environment
+- A Microsoft 365 Copilot licence (Teams or Microsoft 365 Copilot Bizchat)
 
 
 ### Installation
