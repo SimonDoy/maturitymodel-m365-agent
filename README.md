@@ -4,6 +4,9 @@ This agent helps users get answers to their questions, provides support and guid
 
 For more information on the [Maturity Model for Microsoft 365](https://learn.microsoft.com/microsoft-365/community).
 
+# Releases of the Maturity Model for Microsoft 365 Agent
+Use the [Releases page](https://github.com/SimonDoy/maturitymodel-m365-agent/releases) to get the latest version of the agent.
+
 ## Installation of the Maturity Model for Microsoft 365 Agent
 
 The agent is currently built using Microsoft Copilot Studio. To make use you will need to have access to a Microsoft 365 environment and Microsoft Teams.
