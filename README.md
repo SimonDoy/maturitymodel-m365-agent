@@ -5,7 +5,7 @@ This agent helps users get answers to their questions, provides support and guid
 For more information on the [Maturity Model for Microsoft 365](https://learn.microsoft.com/microsoft-365/community).
 
 # Releases of the Maturity Model for Microsoft 365 Agent
-Latest Version of Agent is V1.0.0.2
+Latest Version of Agent is V1.0.0.4
 Use the [Releases page](https://github.com/SimonDoy/maturitymodel-m365-agent/releases) to get the latest version of the agent.
 
 ## Installation of the Maturity Model for Microsoft 365 Agent
