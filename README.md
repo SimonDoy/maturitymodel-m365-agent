@@ -23,6 +23,10 @@ You will need:
 - Access to a Power Platform environment
 - A Microsoft 365 Copilot licence (Teams or Microsoft 365 Copilot Bizchat)
 
+### Permissions required
+- System Admin or Customizer on the Power Platform Environment
+- Access to a AI Admin / Teams Admin to approve the published Agent.
+
 
 ### Installation
 To install the Maturity Model for Microsoft 365 Agent:
