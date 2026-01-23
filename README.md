@@ -1,3 +1,6 @@
+
+[![Latest Release](https://img.shields.io/github/v/release/SimonDoy/maturitymodel-m365-agent?sort=semver)](https://github.com/SimonDoy/maturitymodel-m365-agent/releases/latest)
+
 # Maturity Model for Microsoft 365 Agent
 This repository holds the source for the Maturity Model for Microsoft 365 Agent.
 This agent helps users get answers to their questions, provides support and guidance for using the Maturity Model for Microsoft 365. The Maturity Model aims to help businesses understand the benefits and impacts that they can expect as they improve their competencies in key business areas.
@@ -5,7 +8,7 @@ This agent helps users get answers to their questions, provides support and guid
 For more information on the [Maturity Model for Microsoft 365](https://learn.microsoft.com/microsoft-365/community).
 
 # Releases of the Maturity Model for Microsoft 365 Agent
-Latest Version of Agent is V1.0.0.4
+
 Use the [Releases page](https://github.com/SimonDoy/maturitymodel-m365-agent/releases) to get the latest version of the agent.
 
 ## Installation of the Maturity Model for Microsoft 365 Agent
