@@ -111,6 +111,12 @@ Microsoft 365 Copilot will open and prompt you to add the agent. If you see an e
 
 ![alt text](images/image-10.png)
 
+## Make it available to you
+
+To make the Agent accessible to just you, do the following:
+- 
+
+## Make it available 
 
 ## Try it out
 On first run, you will be asked to set up a connection.
